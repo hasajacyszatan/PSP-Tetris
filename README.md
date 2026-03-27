@@ -38,11 +38,10 @@ Then launch it from the PSP's Game menu under Memory Stick.
 | Button | Action |
 |---|---|
 | D-Pad Left / Right | Move piece |
-| D-Pad Down | Soft drop |
 | Cross (×) / D-Pad Up | Rotate clockwise |
-| Square (□) | Hard drop |
-| Circle (○) | Hold piece |
-| Start | Pause |
+| D-Pad UP | Hard drop |
+| D-Pad Down | Soft drop |
+| R | Hold piece |
 
 ## License
 
