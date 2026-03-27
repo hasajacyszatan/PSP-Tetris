@@ -1,4 +1,6 @@
 # PSP Tetris
+![]("https://github.com/hasajacyszatan/PSP-Tetris/blob/main/screenshots/s1.png")
+![]("https://github.com/hasajacyszatan/PSP-Tetris/blob/main/screenshots/s2.png")
 
 A Tetris clone for the Sony PlayStation Portable, written in C++ using the pspdev toolchain.
 
