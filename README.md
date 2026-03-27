@@ -1,6 +1,5 @@
 # PSP Tetris
-<img src="https://github.com/hasajacyszatan/PSP-Tetris/blob/main/screenshots/s1.png" width=200>
-<img src="https://github.com/hasajacyszatan/PSP-Tetris/blob/main/screenshots/s2.png" width=200>
+<img src="https://github.com/hasajacyszatan/PSP-Tetris/blob/main/screenshots/s1.png" width=400><img src="https://github.com/hasajacyszatan/PSP-Tetris/blob/main/screenshots/s2.png" width=400>
 A Tetris clone for the Sony PlayStation Portable, written in C++ using the pspdev toolchain.
 
 ## Requirements
